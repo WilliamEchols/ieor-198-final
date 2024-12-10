@@ -1,0 +1,1 @@
+abigen --abi=QuickswapV3Pool.json --pkg=quickswapv3 --out=quickswapv3.go

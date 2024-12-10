@@ -1,0 +1,8 @@
+# environment variables
+.env.*
+
+# too large to upload file
+logs/
+
+# executable
+198
